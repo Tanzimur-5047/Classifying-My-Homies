@@ -1,0 +1,9 @@
+tensorflow==2.19.0
+mtcnn
+opencv-python-headless
+streamlit
+Pillow
+numpy
+scikit-learn
+seaborn
+matplotlib
