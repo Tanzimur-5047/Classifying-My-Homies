@@ -69,9 +69,11 @@ def crop_largest_face(image_folder):
 
 if __name__ == "__main__":
     folders = [
-        "data/train/Sukomal",
         "data/train/Aninda",
-        "data/train/Himel"]
+        "data/train/Himel",
+        "data/train/Sukomal",
+        "data/train/Unknown"
+        ]
 
     for folder in folders:
         print(f"\n--- Processing {folder} ---")
